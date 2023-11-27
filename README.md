@@ -1,9 +1,18 @@
-# Gender Equality
-## World Bank API Usage Documentation
-  
-**API Documentation:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898581</br>
-**Base URL:** <a href="api.worldbank.org/v2/">api.worldbank.org/v2/</a></br>
-**Parameters:** </br>
+# Gender Equality Indicators
+Gender equality is a fundamental human right and essential for a more peaceful, prosperous, and livable world. The primary objective of this project is to produce a report using selected gender equality indicators aimed at marking progress made in addressing gaps between males and females.
+<br>
+
+# Project Activities
+- Requirements gathering and analysis from relevant stakeholders.
+- Identification of data sources and evaluation of different data ingestion methods available with each.
+- Creating an Extraction, Load and Transform (ETL) data pipeline.
+- Visualise the data in PowerBi based on stakeholder requirements.
+- Document project methodology in a report format.
+
+# World Bank API Usage Documentation
+**Key Data Source:** [The World Bank Group](https://data.worldbank.org/) <br/>
+**API Documentation:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898581<br/>
+**Base URL:** <a href="api.worldbank.org/v2/">api.worldbank.org/v2/</a><br/><br/>
 
 | Parameter | Description | Example |
 | --- | --- | --- |
