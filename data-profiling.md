@@ -25,7 +25,7 @@ Data profiling is important for several reasons:
 
 Several Python libraries can be used for data profiling, including:
 
-- **YData Profiling **(*Apply on Gender data*): Part of the YData suite, this library specialises in automated data profiling and quality checks. It's designed to handle large datasets efficiently and provides detailed reports.
+- **YData Profiling** (*Apply on Gender data*): Part of the YData suite, this library specialises in automated data profiling and quality checks. It's designed to handle large datasets efficiently and provides detailed reports.
   - Page: https://docs.profiling.ydata.ai/4.6/
   
   - Learning Resource: https://www.youtube.com/watch?v=Ef169VELt5o
