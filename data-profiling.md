@@ -40,3 +40,11 @@ Several Python libraries can be used for data profiling, including:
 - **PySpark**: For larger datasets, especially those distributed across clusters, PySpark's DataFrame API can be used for profiling tasks in a distributed manner.
 
 Data analysts and scientists can use these libraries to perform comprehensive data profiling, leading to more informed and effective data-driven strategies and decisions.
+
+## 4. Exploratory Data Analysis (EDA) - Data Cleaning
+- How do you handle missing data
+-   Last Observation Carried Forward
+-   Mean Imputation
+- Summary Statistics in the data (Mean, mode, median, kurtois, interquartile ranges, standard deviations)
+- Data Normalisation (Does it apply?)
+- 
