@@ -43,8 +43,17 @@ Data analysts and scientists can use these libraries to perform comprehensive da
 
 ## 4. Exploratory Data Analysis (EDA) - Data Cleaning
 - How do you handle missing data
--   Last Observation Carried Forward
--   Mean Imputation
+  - Last Observation Carried Forward
+  - Mean Imputation
 - Summary Statistics in the data (Mean, mode, median, kurtois, interquartile ranges, standard deviations)
 - Data Normalisation (Does it apply?)
-- 
+
+## 5. Stakeholder Feedback to inform Exploratory Data Analysis (EDA) - Data Cleaning
+- **Create individualised indicator profiles**
+  - State the completeness of the data (97% missing data for xyz indicator)
+  - For countries that reported, outline those countries as a discrete value and percentage of the entire Commonwealth member list (two countries reported on xyz, i.e. India and Lesotho, [(2/56)*100]%)
+  - When was the data last reported (most recent date of data availability)
+- **Make recommendations**
+  - Statistically what can be done (mean imputation, LOCF, **SMOTE** - Synthetic Minority Oversampling Technique, Normalisation - LOG of the data etc.) 
+  - A analytic judgement call (do we discard the indicator etc.)
+  - Modify our analysis notes
