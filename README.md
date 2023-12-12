@@ -1,15 +1,15 @@
-# Gender Equality Indicators
+# 1. Gender Equality Indicators
 Gender equality is a fundamental human right and essential for a more peaceful, prosperous, and livable world. The primary objective of this project is to produce a report using selected gender equality indicators aimed at marking progress made in addressing gaps between males and females.
 <br>
 
-# Project Activities
+# 2. Project Activities
 - Requirements gathering and analysis from relevant stakeholders.
 - Identification of data sources and evaluation of different data ingestion methods available with each.
 - Creating an Extraction, Load and Transform (ETL) data pipeline.
 - Visualise the data in PowerBi based on stakeholder requirements.
 - Document project methodology in a report format.
 
-# World Bank API Usage Documentation
+# 3. World Bank API Usage Documentation
 **Key Data Source:** [The World Bank Group](https://data.worldbank.org/) <br/>
 **API Documentation:** https://datahelpdesk.worldbank.org/knowledgebase/articles/898581<br/>
 **Base URL:** <a href="api.worldbank.org/v2/">api.worldbank.org/v2/</a><br/><br/>
@@ -27,3 +27,15 @@ Gender equality is a fundamental human right and essential for a more peaceful, 
 | `frequency` | Frequency of values: Q (quarterly), M (monthly), Y (yearly) (works with mrv) | `frequency=M` |
 | `footnote` | Fetches footnote detail in data calls | `footnote=y` |
 | `language` | Local language translations for some countries | `language=vi` |
+
+# 4. Project Sections
+## 4.1 Data Ingestion
+**Data Download Script:** [Jupyter Notebooks - Data Downloader](https://github.com/GKKalsi/GenderEquality/blob/main/01_data_ingestion/data-downloader.ipynb)
+
+## 4.2 Data Profiling | Quality (Exploratory Data Analysis)
+- **Indicator Info Notes:** [Markdown - Indicator Info](https://github.com/GKKalsi/GenderEquality/blob/main/02_data_profiling/data-profiling.md)
+- **Indicator Reference Table:** [Markdown - Indicator Reference](https://github.com/GKKalsi/GenderEquality/blob/main/02_data_profiling/indicator-info.md)
+- **Indicator EDA Report:** [Markdown - Indicator Report](https://github.com/GKKalsi/GenderEquality/blob/main/02_data_profiling/indicator-eda.md)
+
+## 4.3 Data Modelling and Visualisation
+...
