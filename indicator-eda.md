@@ -1,4 +1,5 @@
-### Borrowed to start, operate, or expand a farm or business, female (% age 15+)
+### 1. Borrowed to start, operate, or expand a farm or business, female (% age 15+)
+**Description**: The percentage of respondents who report borrowing any money to start, operate, or expand a farm or business in the past year, female (% age 15+)
 | Attribute | Value | Attribute | Value |
 | :--- | ---: | :--- | ---: |
 |Mean|7.31|Missing Values|98.21%|
@@ -7,9 +8,18 @@
 |Minimum|0.05|To   Year (Latest)|2017|
 |Std|5.96|Indicator Code|`FIN21.T.D.2017.1`|
 |Kurtois|-0.11|Type|Numeric|
+#### 1.1 Interpretation
+On average, about 7.3% of women aged 15 and above take loans for farming or business. The typical case is lower, around 5.6%. The amount borrowed varies widely, from nearly zero to over 21%. The data's distribution is a bit flatter than usual, meaning the differences in borrowing amounts aren't as extreme as you might expect. However, there's a lot of missing information, as nearly 98% of the data wasn't reported. The data, covering the years 2014 to 2017, comes from about 62.5% of countries.
 
+#### 1.2 Recommendations
+- **Increase Accessibility**: Given the low mean (7.31%) and median (5.56%) of loans borrowed by women, efforts should focus on increasing their accessibility to financial resources.
+- **Data Collection Improvement**: With a high percentage of missing values (98.21%), there is a need for more robust and consistent data collection to better understand and address the issue.
+- **Targeted Financial Products**: Develop and promote financial products and services specifically tailored to meet the needs of women entrepreneurs.
+- **Awareness and Education Programs**: Implement programs to educate women about available financial services and how to access them.
+- **Monitoring and Evaluation**: Regularly monitor and evaluate the effectiveness of initiatives aimed at increasing loan accessibility for women, using updated and comprehensive data.
 
-### Borrowed to start, operate, or expand a farm or business, male (% age 15+)
+### 2. Borrowed to start, operate, or expand a farm or business, male (% age 15+)
+**Description**: The percentage of respondents who report borrowing any money to start, operate, or expand a farm or business in the past year, male (% age 15+)
 | Attribute | Value | Attribute | Value |
 | :--- | ---: | :--- | ---: |
 |Mean|9.57|Missing Values|98.21%|
@@ -18,8 +28,14 @@
 |Minimum|0.72|To   Year (Latest)|2017|
 |Std|6.21|Indicator Code|`FIN21.T.D.2017.2`|
 |Kurtois|0.80|Type|Numeric|
+#### 1.1 Interpretation
+On average, about 9.6% of men aged 15 and above borrow money to start or expand a farm or business, which is higher than the average for women. The typical (median) borrowing rate for men is about 8%. The range of borrowing is quite wide, from as low as 0.72% to as high as 27.82%. The data is somewhat peakier than a normal distribution, suggesting more extreme values in borrowing rates among men. However, like the data for women, around 98% of information is missing. This data, also from 2014 to 2017, is reported by about 62.5% of countries.
 
-
+#### 1.2 Recommendations
+- **Enhance Male Access to Credit**: Despite higher borrowing rates among men, there's still room to improve access to credit for business or farm expansion.
+- **Data Improvement**: Address the significant gap in data reporting to better understand and support male entrepreneurs' financial needs.
+- **Tailored Financial Services**: Develop financial products and services that cater to the specific needs of male entrepreneurs.
+  
 ### Borrowed to start, operate, or expand a farm or business (% age 15+)
 | Attribute | Value | Attribute | Value |
 | :--- | ---: | :--- | ---: |
