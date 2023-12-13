@@ -437,14 +437,14 @@ On average, about one in three women aged 15-49 have suffered from intimate part
 #### 20.1 Interpretation
 On average, about 32% of women aged 15 and above have suffered from intimate partner violence in their lifetime. The typical case is close to the average, around 31%. The prevalence of violence varies widely, from less than 10% to over 50%. The data's distribution is slightly flatter than usual, meaning there are fewer outliers and more consistency in the data. However, there is a lot of missing information, as nearly 99% of the data was not reported. The data, covering the year 2018, comes from about 79% of countries.
 
-#### 21.2 Recommendations
+#### 20.2 Recommendations
 - **Prevention and Response**: Given the high mean (32.02%) and median (31.08%) of violence experienced by women, efforts should focus on preventing and responding to this serious human rights violation.
 - **Data Collection Improvement**: With a high percentage of missing values (98.75%), there is a need for more robust and consistent data collection to better understand and address the issue.
 - **Support Services**: Provide and promote accessible and quality support services for survivors of violence, such as health care, legal aid, counseling, and shelters.
 - **Awareness and Education Programs**: Raise awareness and educate communities about the causes and consequences of violence against women, and challenge the social norms that condone it.
 
 
-### 22. There is legislation specifically addressing domestic violence (1=yes; 0=no)
+### 21. There is legislation specifically addressing domestic violence (1=yes; 0=no)
 **Description**: The percentage of countries that have laws or policies that explicitly address domestic violence against women.
 
 | Attribute | Value | Attribute | Value |
@@ -456,10 +456,10 @@ On average, about 32% of women aged 15 and above have suffered from intimate par
 |Std|0.47|Indicator Code|`SG.LEG.DVAW`|
 |Kurtois|-1.44|Type|Categorical|
 
-#### 22.1 Interpretation
+#### 21.1 Interpretation
 On average, only about 33% of countries have specific legislation on domestic violence against women. The typical case is zero, meaning most countries do not have such laws or policies. The data's distribution is negatively skewed, meaning there are more countries with no legislation than with legislation. The data also has a lot of missing values, as nearly 19% of the data was not reported. The data covers a long time span, from 1970 to 2022, and comes from about 96% of countries.
 
-#### 22.2 Recommendations
+#### 21.2 Recommendations
 - **Legal Reform**: Given the low mean (0.33) and median (0.00) of legislation on domestic violence, efforts should focus on enacting and enforcing laws that protect women from violence and hold perpetrators accountable.
 - **Data Collection Improvement**: With a high percentage of missing values (18.88%), there is a need for more reliable and consistent data collection to better monitor and evaluate the situation.
 - **Awareness and Education Programs**: Develop and implement programs that raise awareness and educate the public about the causes and consequences of domestic violence and the rights and services available for survivors.
@@ -467,7 +467,7 @@ On average, only about 33% of countries have specific legislation on domestic vi
 
 
 
-### 23. Maternal mortality ratio (modeled estimate, per 100,000 live births)
+### 22. Maternal mortality ratio (modeled estimate, per 100,000 live births)
 **Description**: The number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births.
 
 | Attribute | Value | Attribute | Value |
@@ -479,16 +479,16 @@ On average, only about 33% of countries have specific legislation on domestic vi
 |Std|260.79|Indicator Code|`SH.STA.MMRT`|
 |Kurtois|4.52|Type|Numeric|
 
-#### 23.1 Interpretation
+#### 22.1 Interpretation
 The average maternal mortality ratio is 222.72, meaning that for every 100,000 live births, about 223 women die from pregnancy-related causes. However, the median is much lower, at 109.5, indicating that there are some countries with very high ratios that skew the mean. The maximum ratio is 1682, which is extremely high and alarming. The minimum ratio is 3, which is very low and commendable. The standard deviation is 260.79, which shows that there is a lot of variation in the ratios across countries. The data's distribution is very peaked, meaning that most countries have similar ratios, but there are some outliers with very high or low ratios. The data has a lot of missing values, as 69.05% of the data was not reported. The data covers the years 2000 to 2020 and comes from 92.86% of countries.
 
-#### 23.2 Recommendations
+#### 22.2 Recommendations
 - **Reduce Inequality**: Given the large gap between the maximum and minimum ratios, efforts should focus on reducing the inequality in maternal health outcomes across countries.
 - **Data Quality Improvement**: With a high percentage of missing values (69.05%), there is a need for more reliable and timely data collection to monitor and evaluate the progress and challenges in maternal health.
 - **Strengthen Health Systems**: Strengthen the health systems and services that provide quality maternal care, especially in areas with high maternal mortality ratios.
 - **Advocate for Women's Rights**: Advocate for women's rights to access reproductive health services, education, and empowerment.
 
-### 24. Maternal mortality ratio (national estimate, per 100,000 live births)
+### 23. Maternal mortality ratio (national estimate, per 100,000 live births)
 **Description**: The number of maternal deaths per 100,000 live births in a given year or period, based on national sources or estimates.
 
 | Attribute | Value | Attribute | Value |
@@ -500,17 +500,17 @@ The average maternal mortality ratio is 222.72, meaning that for every 100,000 l
 |Std|209.17|Indicator Code|`SH.STA.MMRT.NE`|
 |Kurtois|15.06|Type|Numeric|
 
-#### 24.1 Interpretation
+#### 23.1 Interpretation
 The average maternal mortality ratio across countries is about 106 deaths per 100,000 live births, but the typical case is much lower, at 36 deaths. The ratio varies greatly, from zero to almost 1800 deaths, indicating huge disparities in maternal health outcomes. The data's distribution is very skewed, meaning there are a few extreme cases that drive up the mean. However, the data is also very incomplete, as more than 83% of the values are missing. The data covers the years 1985 to 2018 and comes from about 82% of countries.
 
-#### 24.2 Recommendations
+#### 23.2 Recommendations
 - **Reduce Inequalities**: Given the high maximum (1778) and standard deviation (209) of maternal mortality ratios, efforts should focus on reducing the inequalities in access to quality maternal health care among and within countries.
 - **Data Quality Improvement**: With a high percentage of missing values (83%), there is a need for more reliable and timely data collection and reporting to monitor and evaluate the progress and challenges in maternal health.
 - **Evidence-Based Interventions**: Implement and scale up evidence-based interventions that address the direct and indirect causes of maternal mortality, such as hemorrhage, infection, hypertensive disorders, unsafe abortion, and HIV/AIDS.
 
 
 
-### 25 Life expectancy at birth, female (years)
+### 24 Life expectancy at birth, female (years)
 **Description**: The average number of years a newborn female can expect to live if current mortality rates continue to apply, female (years)
 
 | Attribute | Value | Attribute | Value |
@@ -522,17 +522,17 @@ The average maternal mortality ratio across countries is about 106 deaths per 10
 |Std|11.02|Indicator Code|`SP.DYN.LE00.FE.IN`|
 |Kurtois|-0.60|Type|Numeric|
 
-#### 25.1 Interpretation
+#### 24.1 Interpretation
 The mean life expectancy at birth for females is about 65 years, but the median is slightly higher at 66 years. This means that half of the female population lives longer than 66 years, while the other half lives shorter. The maximum life expectancy is almost 86 years, while the minimum is only 16 years. The standard deviation is 11 years, which means that there is a lot of variation in the data. The kurtosis is negative, which means that the data has a flatter distribution than a normal curve, with fewer extreme values. The data covers all countries from 1960 to 2021, with only 2.15% of missing values.
 
-#### 25.2 Recommendations
+#### 24.2 Recommendations
 - **Reduce Inequality**: There is a large gap between the maximum and minimum life expectancy for females, which reflects the inequality in health and living conditions across the world. Efforts should be made to reduce this gap and improve the quality of life for all women.
 - **Monitor Trends**: The data shows the historical and current situation of female life expectancy, but it does not predict the future trends. It is important to monitor the changes in life expectancy over time and identify the factors that influence it.
 - **Promote Healthy Behaviors**: Life expectancy is affected by many factors, such as genetics, environment, lifestyle, and health care. Some of these factors can be modified by adopting healthy behaviors, such as eating well, exercising regularly, avoiding smoking and alcohol, and getting regular check-ups.
 
 
 
-### 26. Life expectancy at birth, male (years)
+### 25. Life expectancy at birth, male (years)
 **Description**: The average number of years a newborn male can expect to live if current mortality rates continue to apply, male (years)
 
 | Attribute | Value | Attribute | Value |
@@ -544,17 +544,17 @@ The mean life expectancy at birth for females is about 65 years, but the median 
 |Std|10.19|Indicator Code|`SP.DYN.LE00.MA.IN`|
 |Kurtois|-0.36|Type|Numeric|
 
-#### 26.1 Interpretation
+#### 25.1 Interpretation
 The global average life expectancy for males is about 60 years, with a typical case slightly higher at 61 years. However, there is a wide gap between the highest and lowest life expectancies, ranging from 83 years in some countries to only 13 years in others. The data's distribution is slightly negative, meaning that there are more countries with lower than average life expectancies than higher ones. The data is fairly complete, with only 2% of missing values. The data covers all countries and spans from 1960 to 2021.
 
-#### 26.2 Recommendations
+#### 25.2 Recommendations
 - **Reduce Inequality**: Address the social and economic factors that contribute to the large disparities in life expectancy across countries and regions.
 - **Improve Health Care**: Invest in quality and accessible health care services for males, especially in areas with high mortality rates.
 - **Promote Healthy Lifestyles**: Encourage males to adopt healthy behaviors such as avoiding tobacco, alcohol, and violence, and increasing physical activity and nutrition.
 
 
 
-### 27. Life expectancy at birth, total (years)
+### 26. Life expectancy at birth, total (years)
 **Description**: The average number of years a newborn is expected to live if current mortality rates continue to apply.
 
 | Attribute | Value | Attribute | Value |
@@ -566,10 +566,10 @@ The global average life expectancy for males is about 60 years, with a typical c
 |Std|10.55|Indicator Code|`SP.DYN.LE00.IN`|
 |Kurtois|-0.48|Type|Numeric|
 
-#### 27.1 Interpretation
+#### 26.1 Interpretation
 The global average life expectancy at birth is about 62.6 years, with a median of 63.6 years. This means that half of the world's population can expect to live longer than 63.6 years, and half can expect to live shorter. The maximum life expectancy recorded is 84.5 years, while the minimum is 14.1 years. The standard deviation of 10.6 years indicates that there is a large variation in life expectancy across countries and regions. The data's distribution is slightly negatively skewed, meaning that there are more countries with lower life expectancy than higher. The data covers all countries from 1960 to 2021, with only 2.15% of missing values.
 
-### 27.2 Recommendations
+### 26.2 Recommendations
 - **Reduce Inequality**: There is a need to address the social and economic factors that contribute to the wide gap in life expectancy between countries and regions, such as poverty, malnutrition, disease, violence, and lack of access to health care and education.
 - **Improve Data Quality**: With a relatively low percentage of missing values (2.15%), the data is fairly reliable and comprehensive, but there is still room for improvement in data collection and reporting methods, especially for countries with low life expectancy and high mortality rates.
 - **Promote Healthy Lifestyles**: Encourage and support people to adopt healthy behaviors and habits that can increase their life span, such as eating well, exercising regularly, avoiding tobacco and alcohol, and managing stress.
