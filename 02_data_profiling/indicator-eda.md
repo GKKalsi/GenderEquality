@@ -8,7 +8,8 @@
 |Minimum|0.05|To   Year (Latest)|2017|
 |Std|5.96|Indicator Code|`FIN21.T.D.2017.1`|
 |Kurtois|-0.11|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Vanuatu,Kiribati,Papua New Guinea,Fiji,Seychelles,Nauru,Guyana,Eswatini,Tuvalu,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Barbados,Grenada,Solomon Islands,Brunei Darussalam,Gambia,Samoa,Bahamas,Saint Kitts and Nevis</td>|
+
+**Not Reported By:** Dominica, Vanuatu, Kiribati, Papua New Guinea, Fiji, Seychelles, Nauru, Guyana, Eswatini, Tuvalu, Antigua and Barbuda, Saint Vincent and The Grenadines, Saint Lucia, Tanzania United Republic of, Tonga, Barbados, Grenada, Solomon Islands, Brunei Darussalam, Gambia, Samoa, Bahamas, Saint Kitts and Nevis
 
 #### 1.1 Interpretation
 On average, about 7.3% of women aged 15 and above take loans for farming or business. The typical case is lower, around 5.6%. The amount borrowed varies widely, from nearly zero to over 21%. The data's distribution is a bit flatter than usual, meaning the differences in borrowing amounts aren't as extreme as you might expect. However, there's a lot of missing information, as nearly 98% of the data wasn't reported. The data, covering the years 2014 to 2017, comes from about 62.5% of countries.
@@ -31,7 +32,8 @@ On average, about 7.3% of women aged 15 and above take loans for farming or busi
 |Minimum|0.72|To   Year (Latest)|2017|
 |Std|6.21|Indicator Code|`FIN21.T.D.2017.2`|
 |Kurtois|0.80|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Vanuatu,Kiribati,Papua New Guinea,Fiji,Seychelles,Nauru,Guyana,Eswatini,Tuvalu,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Barbados,Grenada,Solomon Islands,Brunei Darussalam,Gambia,Samoa,Bahamas,Saint Kitts and Nevis</td>|
+
+**Not Reported By:** Dominica,  Vanuatu, Kiribati, Papua New Guinea, Fiji, Seychelles, Nauru, Guyana, Eswatini, Tuvalu, Antigua and Barbuda, Saint Vincent and The Grenadines, Saint Lucia, Tanzania,  United Republic of, Tonga, Barbados, Grenada, Solomon Islands, Brunei Darussalam, Gambia, Samoa, Bahamas, Saint Kitts and Nevis
 
 #### 2.1 Interpretation
 On average, about 9.6% of men aged 15 and above borrow money to start or expand a farm or business, which is higher than the average for women. The typical (median) borrowing rate for men is about 8%. The range of borrowing is quite wide, from as low as 0.72% to as high as 27.82%. The data is somewhat peakier than a normal distribution, suggesting more extreme values in borrowing rates among men. However, like the data for women, around 98% of information is missing. This data, also from 2014 to 2017, is reported by about 62.5% of countries.
