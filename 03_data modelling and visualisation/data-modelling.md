@@ -59,6 +59,16 @@ Each approach has its strengths and weaknesses, and the choice between them ofte
 - Database Platforms: SQL Server, Oracle, MySQL, NoSQL (Document, key-value, column, graph, time-series) for storing and managing data.
 - ETL Tools: Databricks, Azure Synapse, Azure Data Factory, Informatica, Talend, SSIS for data extraction and transformation.
 - Business Intelligence Tools: Tableau, Power BI, Qlik for reporting and data visualisation.
+- 
+### Tasks/Activities:
+- Identify which are the `dimensions/reference` table/s
+- Identify which are the possible `fact` table/s
+- Build Entity Relational Diagram
+   - The **conceptual model** is to establish the entities, their attributes, and their relationships.
+   - The **logical data model** defines the structure of the data elements and set the relationships between them.
+   - The **physical Data Model** describes the database-specific implementation of the data model.
+
+
 
 ### Best Practices in Data Modelling
 - Focus on Business Requirements: Align the data model with specific business needs.
