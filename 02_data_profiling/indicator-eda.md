@@ -54,7 +54,8 @@ On average, about 9.6% of men aged 15 and above borrow money to start or expand 
 |Minimum|0.81|To   Year (Latest)|2017|
 |Std|5.93|Indicator Code|`FIN21.T.D.2017`|
 |Kurtois|0.25|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Vanuatu,Kiribati,Papua New Guinea,Fiji,Seychelles,Nauru,Guyana,Eswatini,Tuvalu,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Barbados,Grenada,Solomon Islands,Brunei Darussalam,Gambia,Samoa,Bahamas,Saint Kitts and Nevis</td>|
+
+**Reported By :** Dominica,Vanuatu,Kiribati,Papua New Guinea,Fiji,Seychelles,Nauru,Guyana,Eswatini,Tuvalu,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Barbados,Grenada,Solomon Islands,Brunei Darussalam,Gambia,Samoa,Bahamas,Saint Kitts and Nevis
 
 #### 3.1 Interpretation
 On average, about 8.4% of people aged 15 and above borrow money for farming or business purposes. The typical case is lower, around 6.6%. The amount borrowed ranges from less than 1% to over 24%. The data's distribution is slightly peaked, meaning there are more cases around the average than the extremes. However, the data is very incomplete, as almost 98% of the values are missing. The data covers the years 2014 to 2017 and comes from about 62.5% of countries.
@@ -76,7 +77,8 @@ On average, about 8.4% of people aged 15 and above borrow money for farming or b
 |Minimum|0.00|To   Year (Latest)|2022|
 |Std|11.78|Indicator Code|`SG.GEN.PARL.ZS`|
 |Kurtois|1.42|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By :** All
 
 #### 4.1 Interpretation
 The average proportion of women in national parliaments is about 16%, which is far below the 50% mark that would indicate gender parity. The typical (median) proportion is even lower, at about 13%. The variation in women's representation is also high, ranging from zero to almost 64%. The data is slightly skewed towards higher values, indicating that some countries have made more progress than others in advancing women's political participation. However, the data is also incomplete, as 61% of information is missing. This data covers the period from 1997 to 2022 and is reported by all countries.
@@ -99,7 +101,8 @@ The average proportion of women in national parliaments is about 16%, which is f
 |Minimum|0.00|To   Year (Latest)|2020|
 |Std|11.78|Indicator Code|`SG.GEN.MNST.ZS`|
 |Kurtois|0.05|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By:** All
 
 #### 5.1 Interpretation
 On average, about 17.7% of ministers are women across the world. The typical case is slightly lower, around 16.7%. The proportion of women ministers varies widely, from zero to over 54%. The data's distribution is almost normal, meaning the differences in proportions are not very skewed or extreme. However, there is a lot of missing information, as nearly 85% of the data was not reported. The data, covering the years 2005 to 2020, comes from all countries.
@@ -123,7 +126,8 @@ On average, about 17.7% of ministers are women across the world. The typical cas
 |Minimum|1.35|To   Year (Latest)|2022|
 |Std|36.00|Indicator Code|`SE.SEC.ENRR.FE`|
 |Kurtois|-1.23|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By:** All
 
 #### 6.1 Interpretation
 On average, about 59.6% of girls are enrolled in secondary education. The typical case is higher, around 66.5%. The enrollment rate varies widely, from as low as 1.4% to as high as 155.5%. The data's distribution is slightly flatter than usual, meaning the differences in enrollment rates aren't as extreme as you might expect. However, there's a lot of missing information, as over half of the data wasn't reported. The data, covering the years 1970 to 2022, comes from all countries.
@@ -146,7 +150,8 @@ Awareness and Advocacy Programs: Implement programs to raise awareness and advoc
 |Minimum|0.00|To   Year (Latest)|2018|
 |Std|15.65|Indicator Code|`UIS.FGP.5T8.F600`|
 |Kurtois|0.62|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Zambia,Vanuatu,Kiribati,Papua New Guinea,Fiji,Nauru,Eswatini,Tuvalu,Pakistan,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Jamaica,Nigeria,Solomon Islands,Cameroon,Gambia,Trinidad and Tobago,Togo,Gabon,Botswana,Bahamas,Saint Kitts and Nevis,Malawi</td>|
+
+**Not Reported By:** Dominica,Zambia,Vanuatu,Kiribati,Papua New Guinea,Fiji,Nauru,Eswatini,Tuvalu,Pakistan,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of,Tonga,Jamaica,Nigeria,Solomon Islands,Cameroon,Gambia,Trinidad and Tobago,Togo,Gabon,Botswana,Bahamas,Saint Kitts and Nevis,Malawi
 
 #### 7.1 Interpretation
 On average, about 32% of ICT graduates at the tertiary level are women. The typical case is lower, around 28%. The proportion of female ICT graduates varies widely, from zero to nearly 88%. The data's distribution is slightly flatter than usual, meaning the differences in female representation aren't as extreme as you might expect. However, there's a lot of missing information, as nearly 95% of the data wasn't reported. The data, covering the years 1998 to 2018, comes from about 55% of countries.
@@ -170,7 +175,8 @@ On average, about 32% of ICT graduates at the tertiary level are women. The typi
 |Minimum|11.23|To   Year (Latest)|2022|
 |Std|14.51|Indicator Code|`SL.TLF.CACT.FE.ZS`|
 |Kurtois|-0.05|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Grenada,Kiribati,Gambia,Seychelles,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Grenada,Kiribati,Gambia,Seychelles,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 8.1 Interpretation
 On average, about 53.3% of women aged 15 and above participate in the labor force, meaning they are either working or looking for work. The typical case is very close to the average, at 53.5%. The participation rate varies widely, from as low as 11.2% to as high as 87.1%. The data's distribution is slightly flatter than usual, meaning there are more outliers than expected. However, there is a lot of missing information, as more than half of the data was not reported. The data, covering the years 1990 to 2022, comes from about 85.7% of countries.
@@ -193,7 +199,8 @@ On average, about 53.3% of women aged 15 and above participate in the labor forc
 |Minimum|0.00|To   Year (Latest)|2022|
 |Std|0.46|Indicator Code|`SG.LAW.NODC.HR`|
 |Kurtois|-1.36|Type|Categorical|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 9.1 Interpretation
 On average, about 31% of countries have a law that bans gender discrimination in employment. The typical case is zero, meaning most countries do not have such a law. The data is binary, either 1 or 0, so the maximum and minimum values are the same as the possible values. The standard deviation is 0.46, indicating a moderate variation in the data. The data's distribution is unknown, as the kurtosis value is missing. The data covers a long period, from 1970 to 2022, and comes from about 96% of countries.
@@ -218,7 +225,8 @@ On average, about 31% of countries have a law that bans gender discrimination in
 |Minimum|1.20|To   Year (Latest)|2022|
 |Std|6.32|Indicator Code|`SG.OWN.LDAL.FE.ZS`|
 |Kurtois|15.27|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">Rwanda,Mozambique,Uganda,Gabon,Gambia, The,Namibia,Nigeria,Pakistan,Sierra Leone,Ghana,Kenya,Lesotho,Togo,Zambia,India,Malawi,Tanzania,Cameroon,Papua New Guinea</td>|
+
+**Reported By:** Rwanda,Mozambique,Uganda,Gabon,Gambia, The,Namibia,Nigeria,Pakistan,Sierra Leone,Ghana,Kenya,Lesotho,Togo,Zambia,India,Malawi,Tanzania,Cameroon,Papua New Guinea
 
 #### 10.1 Interpretation
 On average, only about 7.5% of women aged 15-49 own land alone, which is a very low figure. The typical case is even lower, around 6%. The percentage of women who own land alone varies greatly, from as low as 1.2% to as high as 36.6%. The data's distribution is very skewed, meaning there are a few outliers that have much higher values than the rest. However, the data is also very incomplete, as almost 99% of the data is missing. The data, covering the years 2010 to 2022, comes from about 34% of countries.
@@ -243,7 +251,8 @@ On average, only about 7.5% of women aged 15-49 own land alone, which is a very 
 |Minimum|0.00|To   Year (Latest)|2022|
 |Std|0.33|Indicator Code|`SG.OPN.BANK.EQ`|
 |Kurtois|3.30|Type|Categorical|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 11.1 Interpretation
 On average, about 88% of countries allow women to open a bank account in the same way as men. The typical case is that there is no legal or customary barrier for women to access banking services. However, there are still some countries where women face discrimination or restrictions in this regard, as indicated by the minimum value of zero. The data's distribution is highly skewed, meaning that most countries have equal rights for women and men, but a few outliers have very low or no equality. The data covers a long period of time, from 1970 to 2022, and includes almost all countries.
@@ -266,7 +275,8 @@ On average, about 88% of countries allow women to open a bank account in the sam
 |Minimum|0.00|To   Year (Latest)|2022|
 |Std|0.33|Indicator Code|`SG.CNT.SIGN.EQ`|
 |Kurtois|3.35|Type|Categorical|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 12.1 Interpretation
 On average, only 12% of countries report that a woman can sign a contract in the same way as a man. The typical case is zero, meaning that most countries do not grant women this right. The data is binary, either 1 or 0, so the standard deviation and kurtosis are not very meaningful. The data has some missing values, about 19%, which may affect the accuracy of the results. The data covers a long period, from 1970 to 2022, and includes almost all countries, about 96%.
@@ -291,7 +301,8 @@ On average, only 12% of countries report that a woman can sign a contract in the
 |Minimum|15.90|To   Year (Latest)|2018|
 |Std|3.49|Indicator Code|`SP.DYN.SMAM.FE`|
 |Kurtois|-0.09|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By:** All
 
 #### 13.1 Interpretation
 The average age at which women get married for the first time is 23.23 years, with a typical case of 22.60 years. The age range is from 15.90 to 33.70 years, with a standard deviation of 3.49 years. The data's distribution is slightly negative, meaning there are more cases of younger marriages than older ones. However, there is a lot of missing information, as 87.13% of the data was not reported. The data covers all countries from 1960 to 2018.
@@ -314,7 +325,8 @@ The average age at which women get married for the first time is 23.23 years, wi
 |Minimum|21.30|To   Year (Latest)|2018|
 |Std|2.74|Indicator Code|`SP.DYN.SMAM.MA`|
 |Kurtois|0.54|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Nauru,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Gambia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Nauru,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Gambia,Tanzania, United Republic of
 
 #### 14.1 Interpretation
 The mean and median age at first marriage for men are both around 27 years, indicating a symmetrical distribution of the data. The standard deviation is relatively low, meaning there is not much variation in the ages across countries. The maximum and minimum values show that some countries have much higher or lower ages than others, ranging from 21.3 to 36.9 years. The data is very incomplete, as almost 89% of the values are missing. The data covers a long period of time, from 1960 to 2018, and includes almost all countries.
@@ -338,7 +350,8 @@ The mean and median age at first marriage for men are both around 27 years, indi
 |Minimum|0.00|To   Year (Latest)|2021|
 |Std|9.05|Indicator Code|`SP.M15.2024.FE.ZS`|
 |Kurtois|4.71|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Malaysia,New Zealand,Seychelles,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of,Cyprus,Canada,Grenada,Malta,Brunei Darussalam,Gambia,Australia,Bahamas,Saint Kitts and Nevis,United Kingdom</td>|
+
+**Not Reported By:** Dominica,Malaysia,New Zealand,Seychelles,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of,Cyprus,Canada,Grenada,Malta,Brunei Darussalam,Gambia,Australia,Bahamas,Saint Kitts and Nevis,United Kingdom
 
 #### 15.1 Interpretation
 On average, about 9.2% of women aged 20-24 were married before age 15. The typical case is lower, around 6.4%. The percentage varies widely, from zero to nearly 48%. The data's distribution is very peaked, meaning there are a few extreme cases that skew the average. However, there's a lot of missing information, as over 96% of the data wasn't reported. The data, covering the years 1987 to 2021, comes from about 71% of countries.
@@ -363,7 +376,8 @@ On average, about 9.2% of women aged 20-24 were married before age 15. The typic
 |Minimum|0.00|To   Year (Latest)|2021|
 |Std|17.46|Indicator Code|`SP.M18.2024.FE.ZS`|
 |Kurtois|-0.70|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Malaysia,New Zealand,Seychelles,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of,Cyprus,Canada,Grenada,Malta,Brunei Darussalam,Gambia,Australia,Bahamas,Saint Kitts and Nevis</td>|
+
+**Not Reported By:** Dominica,Malaysia,New Zealand,Seychelles,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of,Cyprus,Canada,Grenada,Malta,Brunei Darussalam,Gambia,Australia,Bahamas,Saint Kitts and Nevis
 
 
 #### 16.1 Interpretation
@@ -389,7 +403,8 @@ On average, about 31.7% of women aged 20 to 24 were married before the age of 18
 |Minimum|2.00|To   Year (Latest)|2018|
 |Std|8.31|Indicator Code|`SG.VAW.1549.ME.ZS`|
 |Kurtois|-1.11|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Barbados,Malaysia,Brunei Darussalam,Gambia,Seychelles,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Barbados,Malaysia,Brunei Darussalam,Gambia,Seychelles,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of
 
 #### 17.1 Interpretation
 On average, about 15.3% of women aged 15-49 who have ever had a partner suffer from physical and/or sexual violence by their current or former partner in a year. The typical case is slightly higher, around 16%. The prevalence of violence varies greatly, from as low as 2% to as high as 31%. The data's distribution is slightly flatter than usual, meaning there are fewer outliers and more similar values. However, there is a huge gap in data availability, as almost 99% of the data is missing. The data, covering the year 2018, comes from about 80% of countries.
@@ -412,7 +427,8 @@ On average, about 15.3% of women aged 15-49 who have ever had a partner suffer f
 |Minimum|1.68|To   Year (Latest)|2018|
 |Std|7.29|Indicator Code|`SG.VAW.15PL.ME.ZS`|
 |Kurtois|-1.15|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Barbados,Malaysia,Brunei Darussalam,Gambia,Seychelles,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Barbados,Malaysia,Brunei Darussalam,Gambia,Seychelles,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of
 
 #### 18.1 Interpretation
 On average, about 13.1% of women aged 15 and above face physical and/or sexual violence from their partners in a year. The typical case is higher, around 14.6%. The prevalence of violence varies widely, from less than 2% to over 25%. The data's distribution is slightly flatter than usual, meaning the differences in violence rates aren't as extreme as you might expect. However, there's a lot of missing information, as nearly 99% of the data wasn't reported. The data, covering the year 2018, comes from about 80% of countries.
@@ -436,7 +452,8 @@ On average, about 13.1% of women aged 15 and above face physical and/or sexual v
 |Minimum|11.00|To   Year (Latest)|2018|
 |Std|10.72|Indicator Code|`SG.VAW.1549.LT.ME.ZS`|
 |Kurtois|-0.80|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Barbados,Canada,Brunei Darussalam,Gambia,Seychelles,Eswatini,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Barbados,Canada,Brunei Darussalam,Gambia,Seychelles,Eswatini,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of
 
 #### 19.1 Interpretation
 On average, about one in three women aged 15-49 have suffered from intimate partner violence in their lifetime. The typical case is close to the average, around 30.5%. The prevalence of violence varies widely, from 11% to 53%, across different countries and regions. The data's distribution is slightly flatter than usual, meaning there are fewer outliers and more consistency in the rates of violence. However, there is a huge gap in data availability, as nearly 99% of the data was not reported. The data, covering the year 2018, comes from about 79% of countries.
@@ -459,7 +476,8 @@ On average, about one in three women aged 15-49 have suffered from intimate part
 |Minimum|9.41|To   Year (Latest)|2018|
 |Std|11.27|Indicator Code|`SG.VAW.15PL.LT.ME.ZS`|
 |Kurtois|-0.94|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Barbados,Canada,Brunei Darussalam,Gambia,Seychelles,Eswatini,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Barbados,Canada,Brunei Darussalam,Gambia,Seychelles,Eswatini,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Mauritius,Saint Lucia,Tanzania, United Republic of
 
 #### 20.1 Interpretation
 On average, about 32% of women aged 15 and above have suffered from intimate partner violence in their lifetime. The typical case is close to the average, around 31%. The prevalence of violence varies widely, from less than 10% to over 50%. The data's distribution is slightly flatter than usual, meaning there are fewer outliers and more consistency in the data. However, there is a lot of missing information, as nearly 99% of the data was not reported. The data, covering the year 2018, comes from about 79% of countries.
@@ -482,7 +500,8 @@ On average, about 32% of women aged 15 and above have suffered from intimate par
 |Minimum|0.00|To   Year (Latest)|2022|
 |Std|0.47|Indicator Code|`SG.LEG.DVAW`|
 |Kurtois|-1.44|Type|Categorical|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 21.1 Interpretation
 On average, only about 33% of countries have specific legislation on domestic violence against women. The typical case is zero, meaning most countries do not have such laws or policies. The data's distribution is negatively skewed, meaning there are more countries with no legislation than with legislation. The data also has a lot of missing values, as nearly 19% of the data was not reported. The data covers a long time span, from 1970 to 2022, and comes from about 96% of countries.
@@ -506,7 +525,8 @@ On average, only about 33% of countries have specific legislation on domestic vi
 |Minimum|3.00|To   Year (Latest)|2020|
 |Std|260.79|Indicator Code|`SH.STA.MMRT`|
 |Kurtois|4.52|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 22.1 Interpretation
 The average maternal mortality ratio is 222.72, meaning that for every 100,000 live births, about 223 women die from pregnancy-related causes. However, the median is much lower, at 109.5, indicating that there are some countries with very high ratios that skew the mean. The maximum ratio is 1682, which is extremely high and alarming. The minimum ratio is 3, which is very low and commendable. The standard deviation is 260.79, which shows that there is a lot of variation in the ratios across countries. The data's distribution is very peaked, meaning that most countries have similar ratios, but there are some outliers with very high or low ratios. The data has a lot of missing values, as 69.05% of the data was not reported. The data covers the years 2000 to 2020 and comes from 92.86% of countries.
@@ -528,7 +548,8 @@ The average maternal mortality ratio is 222.72, meaning that for every 100,000 l
 |Minimum|0.00|To   Year (Latest)|2018|
 |Std|209.17|Indicator Code|`SH.STA.MMRT.NE`|
 |Kurtois|15.06|Type|Numeric|
-|Not&nbsp;Reported&nbsp;By<td colspan="3">Dominica,Tonga,Vanuatu,Papua New Guinea,Gambia,Samoa,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of</td>|
+
+**Not Reported By:** Dominica,Tonga,Vanuatu,Papua New Guinea,Gambia,Samoa,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Antigua and Barbuda,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
 #### 23.1 Interpretation
 The average maternal mortality ratio across countries is about 106 deaths per 100,000 live births, but the typical case is much lower, at 36 deaths. The ratio varies greatly, from zero to almost 1800 deaths, indicating huge disparities in maternal health outcomes. The data's distribution is very skewed, meaning there are a few extreme cases that drive up the mean. However, the data is also very incomplete, as more than 83% of the values are missing. The data covers the years 1985 to 2018 and comes from about 82% of countries.
@@ -551,7 +572,8 @@ The average maternal mortality ratio across countries is about 106 deaths per 10
 |Minimum|15.66|To   Year (Latest)|2021|
 |Std|11.02|Indicator Code|`SP.DYN.LE00.FE.IN`|
 |Kurtois|-0.60|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By:** All
 
 #### 24.1 Interpretation
 The mean life expectancy at birth for females is about 65 years, but the median is slightly higher at 66 years. This means that half of the female population lives longer than 66 years, while the other half lives shorter. The maximum life expectancy is almost 86 years, while the minimum is only 16 years. The standard deviation is 11 years, which means that there is a lot of variation in the data. The kurtosis is negative, which means that the data has a flatter distribution than a normal curve, with fewer extreme values. The data covers all countries from 1960 to 2021, with only 2.15% of missing values.
@@ -574,7 +596,8 @@ The mean life expectancy at birth for females is about 65 years, but the median 
 |Minimum|13.07|To   Year (Latest)|2021|
 |Std|10.19|Indicator Code|`SP.DYN.LE00.MA.IN`|
 |Kurtois|-0.36|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>
+
+**Reported By:** All
 
 #### 25.1 Interpretation
 The global average life expectancy for males is about 60 years, with a typical case slightly higher at 61 years. However, there is a wide gap between the highest and lowest life expectancies, ranging from 83 years in some countries to only 13 years in others. The data's distribution is slightly negative, meaning that there are more countries with lower than average life expectancies than higher ones. The data is fairly complete, with only 2% of missing values. The data covers all countries and spans from 1960 to 2021.
@@ -597,7 +620,8 @@ The global average life expectancy for males is about 60 years, with a typical c
 |Minimum|14.10|To   Year (Latest)|2021|
 |Std|10.55|Indicator Code|`SP.DYN.LE00.IN`|
 |Kurtois|-0.48|Type|Numeric|
-|Reported&nbsp;By<td colspan="3">All</td>|
+
+**Reported By:** All
 
 #### 26.1 Interpretation
 The global average life expectancy at birth is about 62.6 years, with a median of 63.6 years. This means that half of the world's population can expect to live longer than 63.6 years, and half can expect to live shorter. The maximum life expectancy recorded is 84.5 years, while the minimum is 14.1 years. The standard deviation of 10.6 years indicates that there is a large variation in life expectancy across countries and regions. The data's distribution is slightly negatively skewed, meaning that there are more countries with lower life expectancy than higher. The data covers all countries from 1960 to 2021, with only 2.15% of missing values.
