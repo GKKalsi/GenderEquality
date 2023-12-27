@@ -38,4 +38,6 @@ Gender equality is a fundamental human right and essential for a more peaceful, 
 - **Indicator EDA Report:** [Markdown - Indicator Report](https://github.com/GKKalsi/GenderEquality/blob/main/02_data_profiling/indicator-eda.md)
 
 ## 4.3 Data Modelling and Visualisation
-...
+- **Data Model-Entity Relationship Diagram** [Data Model Diagram](https://github.com/GKKalsi/GenderEquality/blob/main/03_data%20modelling%20and%20visualisation/data-model.png)
+- **Data Load into Database(SQL Server)** [Jupyter Notebooks - Data Load](https://github.com/GKKalsi/GenderEquality/blob/main/03_data%20modelling%20and%20visualisation/data-loader.ipynb)
+- **Database Scripts** [Database scripts](https://github.com/GKKalsi/GenderEquality/blob/main/03_data%20modelling%20and%20visualisation/dbscripts.sql)
