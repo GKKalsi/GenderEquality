@@ -1,4 +1,5 @@
 ## Indicator Details
+Note on statistical measures
 | Area | Index | Series | Label | Description |
 | :---: | :---: | :--- | :--- | :--- |
 | Women in leadership | 1 | SG.GEN.PARL.ZS | Proportion of seats held by women in national parliaments (%) | Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women. |
