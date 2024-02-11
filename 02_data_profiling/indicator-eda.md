@@ -191,14 +191,13 @@ On average, about 53.3% of women aged 15 and above participate in the labor forc
 ### 9. The law prohibits discrimination in employment based on gender (1=yes; 0=no)
 **Description**: The percentage of countries that have a law prohibiting discrimination in employment based on gender.
 
-| Attribute | Value | Attribute | Value |
-| :--- | ---: | :--- | ---: |
-|Mean|0.31|Missing Values|18.88%|
-|Median|0.00|Countries Reporting|96.43%|
-|Maximum|1.00|From Year (Oldest)|1970|
-|Minimum|0.00|To   Year (Latest)|2022|
-|Std|0.46|Indicator Code|`SG.LAW.NODC.HR`|
-|Kurtois|-1.36|Type|Categorical|
+| Attribute | Value |
+| :--- | ---: |
+|Countries Reporting|96.43%|
+|From Year (Oldest)|1970|
+|To   Year (Latest)|2022|
+|Indicator Code|`SG.LAW.NODC.HR`|
+|Type|Categorical|
 
 **Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
@@ -243,14 +242,13 @@ On average, only about 7.5% of women aged 15-49 own land alone, which is a very 
 ### 11. A woman can open a bank account in the same way as a man (1=yes; 0=no)
 **Description**: The indicator shows whether a woman can open a bank account in the same way as a man, based on the legal framework and customary practices.
 
-| Attribute | Value | Attribute | Value |
-| :--- | ---: | :--- | ---: |
-|Mean|0.88|Missing Values|18.88%|
-|Median|1.00|Countries Reporting|96.43%|
-|Maximum|1.00|From Year (Oldest)|1970|
-|Minimum|0.00|To   Year (Latest)|2022|
-|Std|0.33|Indicator Code|`SG.OPN.BANK.EQ`|
-|Kurtois|3.30|Type|Categorical|
+| Attribute | Value |
+| :--- | ---: |
+|Countries Reporting|96.43%|
+|From Year (Oldest)|1970|
+|To   Year (Latest)|2022|
+|Indicator Code|`SG.OPN.BANK.EQ`|
+|Type|Categorical|
 
 **Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
@@ -267,14 +265,13 @@ On average, about 88% of countries allow women to open a bank account in the sam
 ### 12. A woman can sign a contract in the same way as a man (1=yes; 0=no)
 **Description**: The indicator shows whether a woman can sign a contract in the same way as a man, without requiring permission from her husband or another male relative.
 
-| Attribute | Value | Attribute | Value |
-| :--- | ---: | :--- | ---: |
-|Mean|0.12|Missing Values|18.88%|
-|Median|0.00|Countries Reporting|96.43%|
-|Maximum|1.00|From Year (Oldest)|1970|
-|Minimum|0.00|To   Year (Latest)|2022|
-|Std|0.33|Indicator Code|`SG.CNT.SIGN.EQ`|
-|Kurtois|3.35|Type|Categorical|
+| Attribute | Value |
+| :--- | ---: |
+|Countries Reporting|96.43%|
+|From Year (Oldest)|1970|
+|To   Year (Latest)|2022|
+|Indicator Code|`SG.CNT.SIGN.EQ`|
+|Type|Categorical|
 
 **Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
@@ -492,14 +489,13 @@ On average, about 32% of women aged 15 and above have suffered from intimate par
 ### 21. There is legislation specifically addressing domestic violence (1=yes; 0=no)
 **Description**: The percentage of countries that have laws or policies that explicitly address domestic violence against women.
 
-| Attribute | Value | Attribute | Value |
-| :--- | ---: | :--- | ---: |
-|Mean|0.33|Missing Values|18.88%|
-|Median|0.00|Countries Reporting|96.43%|
-|Maximum|1.00|From Year (Oldest)|1970|
-|Minimum|0.00|To   Year (Latest)|2022|
-|Std|0.47|Indicator Code|`SG.LEG.DVAW`|
-|Kurtois|-1.44|Type|Categorical|
+| Attribute | Value |
+| :--- | ---: |
+|Countries Reporting|96.43%|
+|From Year (Oldest)|1970|
+|To   Year (Latest)|2022|
+|Indicator Code|`SG.LEG.DVAW`|
+|Type|Categorical|
 
 **Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
 
