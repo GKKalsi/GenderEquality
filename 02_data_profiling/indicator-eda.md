@@ -193,22 +193,26 @@ On average, about 53.3% of women aged 15 and above participate in the labor forc
 
 | Attribute | Value |
 | :--- | ---: |
-|Countries Reporting|96.43%|
+|Countries Reporting|67.85%|
 |From Year (Oldest)|1970|
 |To   Year (Latest)|2022|
 |Indicator Code|`SG.LAW.NODC.HR`|
 |Type|Categorical|
 
-**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
+|Year|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019|2020|2021|2022|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Countries|17|18|20|21|23|24|25|26|32|33|33|34|34|35|35|35|35|37|37|37|38|38|38|
+
+**Not Reported By:** Botswana,Nigeria,Sierra Leone,Bangladesh,Brunei Darussalam,Malaysia,Singapore,Sri Lanka,Belize,Dominica,Jamaica,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Nauru,Solomon Islands,
+Tonga,Tuvalu,Vanuatu
 
 #### 9.1 Interpretation
-On average, about 31% of countries have a law that bans gender discrimination in employment. The typical case is zero, meaning most countries do not have such a law. The data is binary, either 1 or 0, so the maximum and minimum values are the same as the possible values. The standard deviation is 0.46, indicating a moderate variation in the data. The data's distribution is unknown, as the kurtosis value is missing. The data covers a long period, from 1970 to 2022, and comes from about 96% of countries.
+Out of the total of 56 Commonwealth Countries 38 countries have law prohibiting discrimination in employment based on gender. There has been a steady increase of countries enacting these laws the count has gone up from 17 in year 2000 to 38 in the year 2022 an increase of more than 100%
 
 #### 9.2 Recommendations
-- **Legal Reform**: Given the low mean (0.31) and median (0) of countries with anti-discrimination laws, efforts should focus on advocating for legal reform to protect women's rights in employment.
-- **Data Quality Improvement**: With a missing value for kurtosis, there is a need for more accurate and complete data to better understand and analyse the issue.
+- **Legal Reform**: More and more countries need to enact this law to prevent discrimination against women, promoting equal employment apportunities for them. Still a lot of progress needs to be made as only 68% of the Commonwealth countries have enacted this law.
 - **Monitoring and Enforcement**: Ensure that existing laws are effectively implemented and enforced, and that violations are reported and addressed.
-- **Awareness and Education Programs**: Implement programs to raise awareness and educate employers and employees about the benefits of gender equality and diversity in the workplace.
+- **Promote Women's Empowerment**: Implement policies and programs that promote women's empowerment, such as education, skills development that will make them competitive in the job market.
 
 
 
@@ -244,21 +248,25 @@ On average, only about 7.5% of women aged 15-49 own land alone, which is a very 
 
 | Attribute | Value |
 | :--- | ---: |
-|Countries Reporting|96.43%|
+|Countries Reporting|92.85%|
 |From Year (Oldest)|1970|
 |To   Year (Latest)|2022|
 |Indicator Code|`SG.OPN.BANK.EQ`|
 |Type|Categorical|
 
-**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
+|Year|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019|2020|2021|2022|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Countries|47|47|47|47|47|49|50|50|50|51|51|51|51|51|51|51|51|51|51|51|52|51|52|
+
+**Not Reported By:** Kenya, Eswatini, Nauru, Tuvalu
 
 #### 11.1 Interpretation
-On average, about 88% of countries allow women to open a bank account in the same way as men. The typical case is that there is no legal or customary barrier for women to access banking services. However, there are still some countries where women face discrimination or restrictions in this regard, as indicated by the minimum value of zero. The data's distribution is highly skewed, meaning that most countries have equal rights for women and men, but a few outliers have very low or no equality. The data covers a long period of time, from 1970 to 2022, and includes almost all countries.
+Out of the total of 56 Commonwealth Countries, 52 countries have laws that allow women to open a bank account in the same way as a man. This indicator has remained relatively stable since 2000, with only a few countries changing their legal framework or customary practices.
 
 #### 11.2 Recommendations
-- **Legal Reform**: For the countries where women cannot open a bank account in the same way as men, there is a need for legal reform to eliminate any discriminatory laws or practices.
-- **Financial Inclusion**: For the countries where women can open a bank account in the same way as men, there is still room for improvement in terms of financial inclusion, such as increasing women's financial literacy, access to credit, and participation in decision-making.
-- **Gender Data Gap**: With a significant percentage of missing values (18.88%), there is a need for more reliable and timely data collection and reporting on gender issues, especially in developing countries.
+- **Legal Reform**: Identify and address the remaining legal barriers that prevent women from opening a bank account, such as requiring a male guardian's permission or imposing discriminatory fees or conditions.
+- **Financial Inclusion**: Increase women's access to and use of financial services, such as savings, credit, insurance and remittances, that can enhance their economic opportunities and well-being.
+- **Financial Literacy**: Provide women with financial education and information that can help them make informed decisions about their money and assets.
 
 
 
@@ -267,22 +275,25 @@ On average, about 88% of countries allow women to open a bank account in the sam
 
 | Attribute | Value |
 | :--- | ---: |
-|Countries Reporting|96.43%|
+|Countries Reporting|28.57%|
 |From Year (Oldest)|1970|
 |To   Year (Latest)|2022|
 |Indicator Code|`SG.CNT.SIGN.EQ`|
 |Type|Categorical|
 
-**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
+|Year|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019|2020|2021|2022|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Countries|7|8|8|8|9|9|9|9|10|11|11|11|11|11|11|11|12|13|14|14|14|16|16|
+
+**Not Reported By:** Botswana,Cameroon,Gambia,Ghana,Kenya,Eswatini,Lesotho,Malawi,Namibia,Nigeria,Rwanda,Seychelles,Togo,Uganda,Tanzania, United Republic of,Bangladesh,Brunei Darussalam,India,Malaysia,Pakistan,Singapore,Sri Lanka,Antigua and Barbuda,Bahamas,Barbados,Belize,Dominica,Grenada,Jamaica,Saint Lucia,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Fiji,Kiribati,Nauru,Papua New Guinea,Samoa,Solomon Islands,Tonga,Tuvalu
 
 #### 12.1 Interpretation
-On average, only 12% of countries report that a woman can sign a contract in the same way as a man. The typical case is zero, meaning that most countries do not grant women this right. The data is binary, either 1 or 0, so the standard deviation and kurtosis are not very meaningful. The data has some missing values, about 19%, which may affect the accuracy of the results. The data covers a long period, from 1970 to 2022, and includes almost all countries, about 96%.
+Out of the total of 56 Commonwealth Countries, only 16 countries have law to allow women to sign a contract in the same way as a man, without requiring permission from their husband or another male relative. This indicator reflects the legal status of women's autonomy and agency in economic activities. The number of countries meeting this criterion has increased from 7 in 2000 to 16 in 2022, but the progress is slow and uneven.
 
 #### 12.2 Recommendations
-- **Legal Reform**: Advocate for legal reforms that recognize and protect women's equal rights to enter into contracts and access economic opportunities.
-- **Gender Equality Awareness**: Raise awareness among men and women about the benefits of gender equality and women's empowerment for social and economic development.
-- **Capacity Building**: Provide training and support to women to enhance their skills and confidence in negotiating and signing contracts.
-- **Monitoring and Evaluation**: Collect and analyze data on the implementation and impact of legal reforms and programs that aim to improve women's ability to sign contracts.
+- **Legal Reform**: More and more countries need to reform their laws to grant women equal rights to sign contracts and engage in economic transactions, without any restrictions based on their marital status or gender.
+- **Awareness and Advocacy**: Raise awareness and advocate for women's rights to sign contracts and access economic opportunities, especially among women themselves, their families, communities and religious leaders.
+- **Support Women's Entrepreneurship**: Provide support and incentives for women to start and grow their own businesses, such as access to finance, training, mentoring and networking.
 
 
 
@@ -491,21 +502,25 @@ On average, about 32% of women aged 15 and above have suffered from intimate par
 
 | Attribute | Value |
 | :--- | ---: |
-|Countries Reporting|96.43%|
+|Countries Reporting|89.28%|
 |From Year (Oldest)|1970|
 |To   Year (Latest)|2022|
 |Indicator Code|`SG.LEG.DVAW`|
 |Type|Categorical|
 
-**Not Reported By:** Gambia,Nauru,Tuvalu,Bahamas,Saint Kitts and Nevis,Saint Vincent and The Grenadines,Saint Lucia,Tanzania, United Republic of
+|Year|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016|2017|2018|2019|2020|2021|2022|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Countries|20|20|22|22|23|23|26|29|31|34|37|38|40|42|45|47|48|48|48|49|49|50|50|
+
+**Not Reported By:** Cameroon,Lesotho,Togo,Tanzania, United Republic of,Nauru,Tuvalu
 
 #### 21.1 Interpretation
-On average, only about 33% of countries have specific legislation on domestic violence against women. The typical case is zero, meaning most countries do not have such laws or policies. The data's distribution is negatively skewed, meaning there are more countries with no legislation than with legislation. The data also has a lot of missing values, as nearly 19% of the data was not reported. The data covers a long time span, from 1970 to 2022, and comes from about 96% of countries.
+Out of the total of 56 Commonwealth Countries, 50 countries have laws or policies that explicitly address domestic violence against women. This shows a significant progress in the recognition and protection of women's rights, as the number of countries with such laws or policies has more than doubled since 2000. However, there is still room for improvement, as 6 countries still lack legal or policy frameworks to prevent and respond to domestic violence against women.
 
 #### 21.2 Recommendations
-- **Legal Reform**: Given the low mean (0.33) and median (0.00) of legislation on domestic violence, efforts should focus on enacting and enforcing laws that protect women from violence and hold perpetrators accountable.
-- **Data Collection Improvement**: With a high percentage of missing values (18.88%), there is a need for more reliable and consistent data collection to better monitor and evaluate the situation.
-- **Awareness and Education Programs**: Develop and implement programs that raise awareness and educate the public about the causes and consequences of domestic violence and the rights and services available for survivors.
+- **Legal Reform**: The remaining 6 countries should adopt laws or policies that explicitly address domestic violence against women, in line with international standards and best practices.
+- **Monitoring and Evaluation**: Ensure that existing laws or policies are regularly monitored and evaluated for their effectiveness, impact and challenges, and that data and evidence are collected and disseminated to inform policy-making and advocacy.
+- **Support Services**: Provide adequate and accessible support services for survivors of domestic violence, such as shelters, counselling, legal aid, health care and social protection, and ensure that they are coordinated and integrated across sectors and levels.
 
 
 
